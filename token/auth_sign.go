@@ -1,7 +1,7 @@
 package token
 
 import (
-	util "GetuiDemo/getui/util"
+	util "github.com/heycayc/getui/util"
 	"crypto/sha256"
 	"encoding/json"
 	"fmt"

@@ -1,8 +1,8 @@
 package push
 
 import (
-	tool "GetuiDemo/getui/tool"
-	util "GetuiDemo/getui/util"
+	tool "github.com/heycayc/getui/tool"
+	util "github.com/heycayc/getui/util"
 	"encoding/json"
 )
 

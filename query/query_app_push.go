@@ -1,7 +1,7 @@
 package query
 
 import (
-	util "GetuiDemo/getui/util"
+	util "github.com/heycayc/getui/util"
 	"encoding/json"
 )
 
